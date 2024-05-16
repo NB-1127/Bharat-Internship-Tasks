@@ -1,4 +1,4 @@
-Bharat Internship Tasks
+<h1>Bharat Internship Tasks</h1>
 Task_1:-
 Registration Form :
 Develop a registration form to sign up
